@@ -1,2 +1,2 @@
 # PBH-Player
-Player, particularly prepared for podcasts.
+Player, particularly prepared for the podcasts.
