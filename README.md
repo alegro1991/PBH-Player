@@ -19,4 +19,6 @@ Features:
 	- current moment of the track in seconds
 	- whole duration of the track in seconds
 	- slider to navigate within the track
+  
+  Player, particularly prepared for the podcasts.
 
